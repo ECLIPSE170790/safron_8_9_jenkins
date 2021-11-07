@@ -10,18 +10,22 @@ public class NegativeTests {
         assertTrue(false);
     }
 
+    @Test
     void test1() {
         assertTrue(false);
     }
 
+    @Test
     void test2() {
         assertTrue(false);
     }
 
+    @Test
     void test3() {
         assertTrue(false);
     }
 
+    @Test
     void test4() {
         assertTrue(false);
     }
