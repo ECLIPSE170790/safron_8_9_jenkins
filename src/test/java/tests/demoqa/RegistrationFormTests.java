@@ -1,8 +1,10 @@
-package demoqa;
+package tests.demoqa;
 
 import static io.qameta.allure.Allure.step;
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.Test;
+import tests.TestBase;
+
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.*;
