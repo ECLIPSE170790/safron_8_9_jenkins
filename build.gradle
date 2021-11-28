@@ -18,7 +18,6 @@ allure {
     configuration = "testImplementation"
     useJUnit5 {
         version = allureVersion
-
     }
 }
 
